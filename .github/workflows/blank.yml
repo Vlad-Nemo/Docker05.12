@@ -14,6 +14,6 @@ jobs:
      - name: send telegram message on push
        uses: appleboy/telegram-action@master
        with:
-         to: 181137011 
-         token: 7549151423:AAHDeCkAOc9idbYAIM1ehO3uIqJ7kXMmEP0
+         to: 1679015248
+         token: 7223325949:AAHm5sWZ-GOWYXTopQCnDQkIc3cpCoFPCo4
          message: Миронов Ермолаев Карболин
